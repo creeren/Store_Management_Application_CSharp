@@ -1,0 +1,24 @@
+C:\Users\krist\source\repos\Datubazes\Datubazes\bin\Debug\Datubazes.exe.config
+C:\Users\krist\source\repos\Datubazes\Datubazes\bin\Debug\Datubazes.exe
+C:\Users\krist\source\repos\Datubazes\Datubazes\bin\Debug\Datubazes.pdb
+C:\Users\krist\source\repos\Datubazes\Datubazes\obj\Debug\Datubazes.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\Datubazes\Datubazes\obj\Debug\Datubazes.Form1.resources
+C:\Users\krist\source\repos\Datubazes\Datubazes\obj\Debug\Datubazes.Properties.Resources.resources
+C:\Users\krist\source\repos\Datubazes\Datubazes\obj\Debug\Datubazes.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\Datubazes\Datubazes\obj\Debug\Datubazes.exe
+C:\Users\krist\source\repos\Datubazes\Datubazes\obj\Debug\Datubazes.pdb
+C:\Users\krist\source\repos\Datubazes\Datubazes\bin\Debug\ChStores.mdf
+C:\Users\krist\source\repos\Datubazes\Datubazes\bin\Debug\ChStores_log.ldf
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\bin\Debug\ChStores.mdf
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\bin\Debug\ChStores_log.ldf
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\bin\Debug\Datubazes.exe.config
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\bin\Debug\Datubazes.exe
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\bin\Debug\Datubazes.pdb
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\obj\Debug\Datubazes.csprojAssemblyReference.cache
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\obj\Debug\Datubazes.Form1.resources
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\obj\Debug\Datubazes.Properties.Resources.resources
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\obj\Debug\Datubazes.csproj.GenerateResource.cache
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\obj\Debug\Datubazes.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\obj\Debug\Datubazes.exe
+C:\Users\krist\OneDrive\Dokumenti\2.kursa 1.pusgads\Programmaturas izstrades tehnologijas\repos\Datubazes\Datubazes\obj\Debug\Datubazes.pdb
+C:\Users\krist\source\repos\Datubazes\Datubazes\obj\Debug\Datubazes.csproj.CoreCompileInputs.cache
